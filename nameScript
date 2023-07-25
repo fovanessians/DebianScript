@@ -1,0 +1,11 @@
+
+#!/bin/bash
+echo "What is your name?"
+read Me
+case $Me in
+        dog) echo "Dog is not a name" ;;
+        *)   echo "Hello whoever you are" ;;
+esac
+
+exit 20
+
