@@ -1,0 +1,4 @@
+#!/bin/bash
+Me="Frank"
+echo Hello $Me
+
