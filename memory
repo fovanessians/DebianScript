@@ -1,0 +1,9 @@
+#!/bin/bash
+sleep 10
+free
+sleep 10
+vmstat
+sleep 10
+cat /proc/meminfo
+sleep 5
+
